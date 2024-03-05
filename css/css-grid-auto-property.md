@@ -12,6 +12,8 @@
 }
 ```
 
+### with child1 and child 3 using the `auto` prop, child 2 should fill the remaining space
+
 ## Full CSS
 
 ```css
