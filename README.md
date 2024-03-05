@@ -1,1 +1,1 @@
-# Best lessons I learned as a Developer
+# Best tech lessons I learned as a Developer
