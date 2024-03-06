@@ -1,5 +1,17 @@
 # CSS Grid `auto` property
 
+## grid columns
+
+![Grid columns layout](../images/grid-column-layout.png)
+
+## To achieve this, use the css below:
+
+```css
+.container {
+  grid-template-columns: auto 1fr auto;
+}
+```
+
 ## grid rows
 
 ![Grid rows layout](../images/grid-rows-layout.png)
